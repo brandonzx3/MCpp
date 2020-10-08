@@ -34,6 +34,7 @@ public class Registration {
 
     //items
     public static final RegistryObject<Item> COPPER_INGOT = ITEMS.register("copper_ingot", ItemBase::new);
+    public static final RegistryObject<Item> BACKPACK = ITEMS>register("backpack", ItemBase::new);
 
     //tools
     public static final RegistryObject<SwordItem> COPPER_SWORD = ITEMS.register("copper_sword", () -> new SwordBase(ItemTier.COPPER, 1, -2.4f));
