@@ -1,5 +1,9 @@
 {
     "item.mcpp.copper_ingot": "Copper Ingot",
+    "item.mcpp.copper_sword": "Copper Sword",
+    "item.mcpp.copper_pickaxe": "Copper Pickaxe",
+    "item.mcpp.copper_axe": "Copper Axe",
+    "item.mcpp.copper_shovel": "Copper Shovel",
 
     "block.mcpp.copper_ore": "Copper Ore"
 }
